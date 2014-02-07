@@ -76,9 +76,19 @@ _Monkey_Type($iSocket,"Hello Monkey!!")
 _Monkey_Shutdown($iSocket)
 ```
 
+## License
+
+Copyright © 2014 Henry Tejera <henrytejera@gmail.com>
+
+This work is free. It comes without any warranty, to
+the extent permitted by applicable law. You can redistribute it
+and/or modify it under the terms of the Do What The Fuck You Want
+To Public License, Version 2, as published by Sam Hocevar. See
+[WTFPL] for more details
 
 [AutoIt]: <www.autoitscript.com/site/autoit/>
 [CyberAgent-adbkit-monkey]: <https://github.com/CyberAgent/adbkit-monkey>
 [Node.js]: <http://nodejs.org/>
 [Monkey]: <http://developer.android.com/tools/help/monkey.html>
 [range of commands]: <https://github.com/android/platform_development/blob/master/cmds/monkey/README.NETWORK.txt>
+[WTFPL]: <http://www.wtfpl.net/>
