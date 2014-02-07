@@ -76,6 +76,10 @@ _Monkey_Type($iSocket,"Hello Monkey!!")
 _Monkey_Shutdown($iSocket)
 ```
 
+## Test 
+See [Micro unit testing framework]
+
+
 ## License
 
 Copyright © 2014 Henry Tejera <henrytejera@gmail.com>
@@ -92,3 +96,4 @@ To Public License, Version 2, as published by Sam Hocevar. See
 [Monkey]: <http://developer.android.com/tools/help/monkey.html>
 [range of commands]: <https://github.com/android/platform_development/blob/master/cmds/monkey/README.NETWORK.txt>
 [WTFPL]: <http://www.wtfpl.net/>
+[Micro unit testing framework]: <http://htejera.users.sourceforge.net/micro/>
