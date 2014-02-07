@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ndUI>
+  <project name="monkey" directory="C:\workspace\Natural Docs\ndUI">
+    <options nd_location="C:\Program Files\NaturalDocs" tooltip_enabled="True" open_output_dir="True" advanced_mode="True" enable_output="True" preview_in_browser="">
+      <project_autosaving value="True" every_mins="1">
+      </project_autosaving>
+      <browser name="C:\Program Files\Internet Explorer\iexplore.exe">
+      </browser> /* can be more then one */
+    </options>
+    <input_directory name="C:\ISN AutoIt Studio\Projects\Monkey">
+    </input_directory> /* can be more then one */
+    <output_directory name="C:\ISN AutoIt Studio\Projects\Monkey\doc" format="HTML"></output_directory> /* can be more then one */
+    <exclude_input name="C:\ISN AutoIt Studio\Projects\Monkey\lib\micro"></exclude_input><directory_image name=""></directory_image><CSS_style name="Default"></CSS_style><rebuild_everything value="True"></rebuild_everything><rebuild_all_output value="False"></rebuild_all_output><space_tabs number=""></space_tabs><documented_only value="False"></documented_only><only_file_titles value="False"></only_file_titles><no_auto_group value="False"></no_auto_group><charset name=""></charset><quiet value="False"></quiet><CSS_style name="Small" /><CSS_style name="Roman" /></project>
+</ndUI>
