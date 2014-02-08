@@ -1,4 +1,4 @@
-;monkey.comand.au3
+;monkey.command.au3
 ;
 ;Author:
 ; henrytejera@gmail.com
