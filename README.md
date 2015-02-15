@@ -91,6 +91,12 @@ See [Micro unit testing framework]
 ## Miscellaneous
 This project use the excellent [ISN AutoIt Studio] IDE by Christian Faderl. 
 
+## Contribution Guidelines
+
+Please submit issues to *ohtejera/AutoItMonkey* and pull requests to *-dev branches.
+
+
+
 ## License
 
 Copyright © 2014 Henry Tejera <henrytejera@gmail.com>
@@ -109,3 +115,4 @@ To Public License, Version 2, as published by Sam Hocevar. See
 [WTFPL]: <http://www.wtfpl.net/>
 [Micro unit testing framework]: <http://htejera.users.sourceforge.net/micro/>
 [ISN AutoIt Studio]:<http://www.isnetwork.at>
+
