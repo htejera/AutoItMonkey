@@ -5,9 +5,6 @@ AutoIt Monkey provides an [AutoIt] interface for working with the Android [Monke
 This work is inspired by the [CyberAgent-adbkit-monkey] project a [Node.js] interface for working with the monkey tool.
 
 
-[![ScreenShot](https://raw2.github.com/ohtejera/AutoItMonkey/master/doc/videoPreview.png)](https://github.com/ohtejera/AutoItMonkey/blob/master/doc/AutoItMonkey.swf?raw=true)
-
-
 ## Monkey
 
 The Monkey is a program that runs on your emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events but also Monkey program can be started in TCP mode with the --port argument. In this mode, it accepts a [range of commands] that can be used to interact with the UI in a non-random manner.
@@ -95,7 +92,7 @@ This project use the excellent [ISN AutoIt Studio] IDE by Christian Faderl.
 
 Please submit issues to *ohtejera/AutoItMonkey* and pull requests to *-dev branches.
 
-
+![gauchoiwantyou2w](https://cloud.githubusercontent.com/assets/3797402/6205550/11ec108e-b559-11e4-8496-60e99d953dec.gif)
 
 ## License
 
